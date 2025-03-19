@@ -1,5 +1,7 @@
 # GIVEPose: Gradual Intra-class Variation Elimination for RGB-based Category-Level Object Pose Estimation
 
+<img src="./tools/pic/overview.png" width="800">
+
 ## Installation
 
 To install the required dependencies, use the following commands:
