@@ -1,5 +1,15 @@
-# GIVEPose: Gradual Intra-class Variation Elimination for RGB-based Category-Level Object Pose Estimation
+# GIVEPose
 
+#### Pytorch implementation of GIVEPose:Gradual Intra-class Variation Elimination for RGB-based Category-Level Object Pose Estimation[[paper](https://arxiv.org/pdf/2503.15110)].
+
+<div align=center>
+<img src="./tools/pic/teaser.png" width="800">
+</div>
+
+Our proposed gradual intra-class variation elimination strategy leverages the complementary 
+advantages of both maps, enabling more precise category-level pose estimation.
+
+## Framework of our method:
 <img src="./tools/pic/overview.png" width="800">
 
 ## Installation
@@ -64,3 +74,13 @@ python evaluation/evaluate.py --resume_model="./path/to/pose_net_C/xxx.pth" --da
 ## Citation
 
 If you find our work useful, please cite:
+
+```BibTeX
+@InProceedings{huang_2025_GIVEPose,
+title = {GIVEPose: Gradual Intra-class Variation Elimination for RGB-based Category-Level Object Pose Estimation},
+author = {Huang, Zinqin and Wang, Gu and Zhang, Chenyangguang and Zhang, Ruida and Li, Xiu and Ji, Xiangyang},
+booktitle = {CVPR},
+month = {June},
+year  = {2025},
+}
+```
