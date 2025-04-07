@@ -32,7 +32,7 @@ pip install xformers==0.0.16
 Our implementation leverages the code from [Lapose](https://github.com/lolrudy/LaPose). 
 Following the [Data Preparation](https://github.com/lolrudy/LaPose?tab=readme-ov-file#data-preparation) in the Lapose repository, 
 you can download the NOCS dataset and preprocess it.
-* For the IVFC map used in the training stage, you can download the map from [here](https://drive.google.com/file/d/1q4zqJWqYKv0zJJY_lK_3YZzY0X-9xJ1Z/view?usp=sharing).
+* For the IVFC map used in the training stage, you can download the map from [here](https://drive.google.com/file/d/1kF8ck7EM9mnz6jyySncVUxzXgRxHH9e-/view?usp=sharing).
 * For the Wild6D dataset, you can download the dataset from [here](https://github.com/OasisYang/Wild6D).
 * Put NOCS, IVFC and Wild6D dataset in the `data` folder.
 
