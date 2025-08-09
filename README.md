@@ -51,7 +51,7 @@ python engine/train.py  --model_save="./output/model_save_C" --dataset=CAMERA
 ```
 
 ## Evaluate
-Our model checkpoint for evaluation cam be found [here](). (We use the scale net provided by [Lapose](https://github.com/lolrudy/LaPose?tab=readme-ov-file#evaluate)).
+Our model checkpoint for evaluation cam be found [here](https://drive.google.com/file/d/1UKGRj18zY2nGeavuMqfhYGtEd7ynST_M/view?usp=drive_link). (We use the scale net provided by [Lapose](https://github.com/lolrudy/LaPose?tab=readme-ov-file#evaluate)).
 
 * Evaluate on the Real dataset. 
 
